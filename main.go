@@ -1,11 +1,11 @@
 package main
 
 import (
-	"WikiPath/parser"
 	"context"
 	"errors"
 	"flag"
 	"fmt"
+	"github.com/loginchik/WikiPath/parser"
 	log "github.com/sirupsen/logrus"
 	"os"
 	"strings"
